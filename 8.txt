@@ -1,11 +1,6 @@
-c
-cc
+cd
+ccd
+cccddddd
 ccc
-ccc
-ccc
-cccc
-d
-dd
-ddd
-dddd
-dddd
+ccccddd
+dddddddd
