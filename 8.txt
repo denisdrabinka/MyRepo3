@@ -1,6 +1,9 @@
-cd
-ccd
-cccddddd
+x
+cccxxx
+xxxxx
 ccc
-ccccddd
-dddddddd
+xxxxxx
+x
+ddxxxxx
+xdddx
+ddddxx
