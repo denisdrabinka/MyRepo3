@@ -1,10 +1,7 @@
-1
-2
-3rrrr
+1xxr
 4rrr
 5rrr
-6rrr
-7
-8rrrr
-9
+6rrxxxx
+7xx
+x9
 dffffff
