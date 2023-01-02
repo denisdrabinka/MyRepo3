@@ -4,3 +4,6 @@
 [submodule "NewSubMode1"]
 	path = NewSubMode1
 	url = https://github.com/denisdrabinka/NewSubMode1.git
+[submodule "NewSubMode2"]
+	path = NewSubMode2
+	url = https://github.com/denisdrabinka/NewSubMode2.git
