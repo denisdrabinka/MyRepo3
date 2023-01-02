@@ -5,7 +5,10 @@ fs
 fdssf
 fdsfs
 fssfcccc
-cc
+ccf
+ffff
+fcff
+fcffff
 ccc
 c
 fc
