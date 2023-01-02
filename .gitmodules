@@ -1,0 +1,3 @@
+[submodule "NewRepo"]
+	path = NewRepo
+	url = https://github.com/denisdrabinka/MyRepoNew.git
