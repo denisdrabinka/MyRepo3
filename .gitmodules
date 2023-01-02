@@ -1,3 +1,6 @@
 [submodule "NewRepo"]
 	path = NewRepo
 	url = https://github.com/denisdrabinka/MyRepoNew.git
+[submodule "NewSubMode1"]
+	path = NewSubMode1
+	url = https://github.com/denisdrabinka/NewSubMode1.git
